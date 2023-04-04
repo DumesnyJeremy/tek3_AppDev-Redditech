@@ -1,5 +1,5 @@
 ## Module description
-In the "Application Development" track, you will have the opportunity to discover some of the most used languages and ecosystem in today's industry. It will allow you to discover and master (to some degree) Javascript, Java and C#/.NET development and will delve into the use of the daily tools used in each stack (Gradle, JUnit, NPM, Nuget, ...), as well as you few major libraries (Axios, Netty, Protobuf, ...)
+In the "Application Development" track, you will have the opportunity to discover some of the most used languages and ecosystem in today's industry. It will allow you to discover and master (to some degree) , Flutter, Javascript, Java and C#/.NET development and will delve into the use of the daily tools used in each stack (Gradle, JUnit, NPM, Nuget, ...), as well as you few major libraries (Axios, Netty, Protobuf, ...)
  
 In this unit in particular, you will discover the creation of a client application (either mobile or desktop) via React-Native, Native Android or UWP. It will be considered that you already know the basics of the choosen development stack and will directly address the aspects specific to the project's development. 
  
